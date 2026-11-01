@@ -2,6 +2,12 @@
 
 An amber CRT-style UI skin for DeepSeek Harness — community plugin.
 
+## Theme
+
+Amber Forge takes its register from the **Adeptus Mechanicus** of Warhammer 40,000 — the machine cult of Mars. The skin borrows that vocabulary, not any game asset: an amber CRT palette for a cogitator terminal, a gear-and-skull emblem in place of the product's brand mark, and a new-session slogan written as a machine-cult verse.
+
+This is an unofficial, fan-made skin: not affiliated with, endorsed by, or sponsored by Games Workshop.
+
 ## What it does
 
 Everything below is client-side presentation. The host half carries no logic of its own: it declares `name` / `inject` and an empty `apply()`, and all behaviour lives in the client half.

@@ -1,6 +1,6 @@
 {
   "name": "amber-forge",
-  "description": "Amber Forge — an amber CRT-style UI skin for DeepSeek Harness: theme token overrides, monospace typography, a custom brand mark, a rewritten new-session slogan, and a wider agent-preset selector.",
+  "description": "Adeptus Mechanicus amber CRT skin for DeepSeek Harness — themed on Warhammer 40,000: an amber CRT palette, a gear-and-skull brand mark, machine-cult phrasing for the new-session slogan, monospace typography outside KaTeX math, scanlines and a screen vignette.",
   "version": "0.1.0",
   "type": "module",
   "main": "lib/index.js",
